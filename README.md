@@ -1,4 +1,5 @@
-### Hi there 👋
+### Merhaba 👋
+# Ben bir domatesim, kıpkırmızı leziz... Hahahahah!
 
 <!--
 **DomatesGames/DomatesGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
