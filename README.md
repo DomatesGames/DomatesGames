@@ -1,8 +1,5 @@
 ### Merhaba 👋
 ### Ben bir domatesim, kıpkırmızı leziz...
-###Bot Invitation Maker gibi açık kaynak kodlu repolarıma bakabilirsiniz.
-###Python öğreniyorum.
-###Yazacak başka şey aklıma gelmedi.
 <!--
 **DomatesGames/DomatesGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
